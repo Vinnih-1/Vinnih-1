@@ -3,8 +3,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinnih-1&count_private=true&show_icons=true&theme=dark)
 
-
-Meu [discord](https://discord.gg/https://discord.gg/Rs4cwCbvnS).
-<p align="left">
-<a href="https://discord.gg/Rs4cwCbvnS" target="blank"><img align="center" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="https://discord.gg/Rs4cwCbvnS" height="30" width="40" /></a>
-</p>
+[discord-invite]: https://discord.gg/Rs4cwCbvnS
+[discord-shield]: https://discord.com/api/guilds/125227483518861312/widget.png
+[ ![discord-shield][] ][discord-invite]
