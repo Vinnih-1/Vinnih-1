@@ -7,10 +7,10 @@
 <h3> 📌 &nbsp;Minhas Skills </h3>
 
 <p align="left">
-  <a href="">
+  <a href="#">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="">
   </a>
-  <a href="">
+  <a href="#">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
   </a>
 </p>
