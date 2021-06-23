@@ -5,6 +5,7 @@
 - 🧑‍🎓 Iniciante na área.
 - 😼 Focado em aprender novas coisas.
 - 🎓 Aprimorando minhas habilidades em **Java**.
+- ❤️ Participando desta versão do NLW na trilha do React
 
 <h3> 📌 &nbsp;Minhas Skills </h3>
 
