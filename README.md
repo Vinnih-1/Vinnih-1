@@ -4,7 +4,7 @@
   
 - 🧑‍🎓 19 Anos de idade.
 - 😼 Focado em aprender novas coisas.
-- 🎓 Aprimorando minhas habilidades em **Java**.
+- 🎓 Aprimorando minhas habilidades em **Java** e **ReactNative**.
 
 <h3> 📌 &nbsp;Minhas Skills </h3>
 
