@@ -16,5 +16,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
 
-![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=Vinnih-1&theme=dark&locale=pt-br)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vinnih-1&theme=dark&hide_border=true&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
