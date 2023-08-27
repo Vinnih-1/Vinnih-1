@@ -2,7 +2,7 @@
 
 <h3> 😸 &nbsp;Sobre mim: </h3>
   
-- 🧑‍🎓 19 Anos de idade
+- 🧑🏻 19 Anos de idade
 - 🎓 Focado em aprender novas coisas
 - 💻 Aprimorando minhas habilidades em **Java** e **React Native**
 - 💜 Apaixonado por tecnologia
