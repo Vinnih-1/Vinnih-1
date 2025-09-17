@@ -1,18 +1,33 @@
-<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
+# Olá! 👋 Eu sou o Vinícius (Vinnih-1)
 
-<h3> 😸 &nbsp;Sobre mim: </h3>
-  
-- 🧑🏻 21 Anos de idade
-- 🎓 Focado em aprender novas coisas
-- 💻 Aprimorando minhas habilidades em **Java** e **React Native**
-- 💜 Apaixonado por tecnologia
+- 🇧🇷 Moro no Brasil  
+- Estudante / Desenvolvedor focado em aplicações mobile (**Java**, **Kotlin** e **React Native**)  
+- Gosto de aprender novas tecnologias, explorar back-end, mobile e participar de projetos desafiadores
 
-<h3> 📌 &nbsp;Minhas Skills </h3>
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## Minhas Skills
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vinnih-1&theme=dark&hide_border=true&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
+| Linguagens / Plataformas | Ferramentas / Outras tecnologias |
+|--------------------------|------------------------------------|
+| Java · Kotlin · TypeScript · Python | React Native · MySQL · Git · REST APIs |
+
+---
+
+## Projetos em Destaque
+
+### OsuKDK
+**Wrapper da API v2 do osu!** feito em **Kotlin** com **Ktor**.
+
+Esse projeto fornece uma interface completa para interagir com a **API pública do jogo osu!**, encapsulando chamadas de API em funções Kotlin fáceis de usar. Ele permite que desenvolvedores obtenham informações de usuários, scores, beatmaps e eventos de forma estruturada, sem precisar lidar diretamente com requisições HTTP ou parsing de JSON. O OsuKDK foi desenvolvido com foco em **simplicidade, segurança e flexibilidade**, suportando autenticação OAuth2 e fornecendo uma experiência consistente para aplicações Kotlin que querem integrar funcionalidades do osu!.
+
+[Repositório](https://github.com/Vinnih-1/OsuKDK)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [in/viniciusalbert](https://www.linkedin.com/in/viniciusalbert)  
+- GitHub: [Vinnih-1](https://github.com/Vinnih-1)  
+
+---
