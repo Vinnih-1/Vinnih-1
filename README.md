@@ -19,7 +19,7 @@
 # 🔭 Projetos em Destaque
 
 ## Kipty
-### Aplicativo mobile para criar transcrições de áudios para estudar Inglês
+### Aplicativo mobile para criar transcrições de áudios para estudar Inglês.
 
 ###### O Kipty fornece uma função muito útil na hora de aprender o Inglês, que é o fato de você poder ter uma transcrição do que está sendo falado enquanto acompanha o áudio. Casualmente desenvolvido para me ajudar a aprender o citado idioma, mais comumente usado para criar transcrição de áudio de podcast. Feito no Android Studio utilizando as suas diversas ferramentas Jetpack Compose para criação e estilização da UI, Room para gerenciar o acesso ao banco de dados de forma flexível e moderna, Hilt para injeção de dependências, etc.
 
