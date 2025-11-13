@@ -18,6 +18,12 @@
 
 # 🔭 Projetos em Destaque
 
+## Android Transcoder
+### Uma biblioteca para facilitar a conversão entre formatos de áudio no Android sem FFmpeg.
+###### O Android Transcoder é uma forma facilitada de converter de um formato para outro no Android usando apenas o decoder e encoder nativos do Android, sem o uso de FFmpeg. Possui suporte para diferentes formatos de áudio, como: MP3, WAV, M4A, FLAC e AAC.
+
+🔗 [Repositório](https://github.com/Vinnih-1/Android-Transcoder)
+
 ## Kipty
 ### Aplicativo mobile para criar transcrições de áudios para estudar Inglês.
 
