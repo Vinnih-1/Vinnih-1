@@ -18,18 +18,19 @@
 
 # 🔭 Projetos em Destaque
 
-## Android Transcoder
-### Uma biblioteca para facilitar a conversão entre formatos de áudio no Android sem FFmpeg.
-###### O Android Transcoder é uma forma facilitada de converter de um formato para outro no Android usando apenas o decoder e encoder nativos do Android, sem o uso de FFmpeg. Possui suporte para diferentes formatos de áudio, como: MP3, WAV, M4A, FLAC e AAC.
-
-🔗 [Repositório](https://github.com/Vinnih-1/Android-Transcoder)
-
 ## Kipty
 ### Aplicativo mobile para criar transcrições de áudios para estudar Inglês.
 
 ###### O Kipty fornece uma função muito útil na hora de aprender o Inglês, que é o fato de você poder ter uma transcrição do que está sendo falado enquanto acompanha o áudio. Casualmente desenvolvido para me ajudar a aprender o citado idioma, mais comumente usado para criar transcrição de áudio de podcast. Feito no Android Studio utilizando as suas diversas ferramentas Jetpack Compose para criação e estilização da UI, Room para gerenciar o acesso ao banco de dados de forma flexível e moderna, Hilt para injeção de dependências, etc.
 
 🔗 [Repositório](https://github.com/Vinnih-1/Kipty)
+
+## Android Transcoder
+### Uma biblioteca para facilitar a conversão entre formatos de áudio no Android sem FFmpeg.
+
+###### O Android Transcoder é uma forma facilitada de converter de um formato para outro no Android usando apenas o decoder e encoder nativos do Android, sem o uso de FFmpeg. Possui suporte para diferentes formatos de áudio, como: MP3, WAV, M4A, FLAC e AAC.
+
+🔗 [Repositório](https://github.com/Vinnih-1/Android-Transcoder)
 
 ## OsuKDK
 ### **Wrapper da API v2 do osu!** feito em **Kotlin** com **Ktor**.
